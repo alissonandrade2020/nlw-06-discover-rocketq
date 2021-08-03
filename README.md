@@ -87,7 +87,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
  
  - [Ecoleta](https://alisssonecoleta.herokuapp.com/)
 
- - [Nlw 06 Rocketq](https://nlw06rocketqalissonandrade.vercel.app)
+ - [Nlw 06 Rocketq](https://nlw06rocketqalissonandrade.herokuapp.com/)
 
  - [Credit Card](https://creditcardalissonandrade.vercel.app/)
   
